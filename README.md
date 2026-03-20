@@ -5,16 +5,16 @@ I'm Jonny, a software developer based in Belfast, Northern Ireland.
 ### What I Do:
 🐍 Day-to-day: Python
 
-🤖 Currently: Building agentic AI projects - it's super interesting
+🤖 Currently: Fine-tuing language models in my 9-5
 
-☁️ Cloud: Certified in Azure & AWS, working with cloud technologies daily
+☁️ Cloud: Certified in Azure (x2) & AWS (x2), working with cloud technologies daily
 
 💻 Also experience working with: Java & JavaScript
 
 ### Learning & Exploring
 🌱 Always enjoy picking up new languages, tools, and frameworks
 
-🔍 Diving deeper into AI agents and automation
+🔍 Diving deeper into AI with emphasis on fine-tuning
 
 
 ### Let's Connect
