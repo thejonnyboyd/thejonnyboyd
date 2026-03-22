@@ -16,6 +16,12 @@ I'm Jonny, a software developer based in Belfast, Northern Ireland.
 
 🔍 Diving deeper into AI with emphasis on fine-tuning
 
+### Certifications
+⭐ AWS Certified Cloud Practitioner
+⭐ AWS Certified Generative AI Developer - Professional
+⭐ Azure Fundamentals
+⭐ Azure AI Engineer Associate
+
 
 ### Let's Connect
 🌐 [Website](https://jonnyboyd.com) | 💼 [LinkedIn](https://www.linkedin.com/in/jonny-boyd/)
