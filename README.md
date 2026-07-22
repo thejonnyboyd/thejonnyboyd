@@ -5,7 +5,7 @@ I'm Jonny, a software developer based in Belfast, Northern Ireland.
 ### What I Do:
 🐍 Day-to-day: Python
 
-🤖 Currently: Fine-tuing language models in my 9-5
+🤖 Currently: Fine-tuning large and small language models in my 9-5
 
 ☁️ Cloud: Certified in Azure (x2) & AWS (x2), working with cloud technologies daily
 
